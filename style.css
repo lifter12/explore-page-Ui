@@ -1,0 +1,80 @@
+.explore{
+    background-image: url("https://miro.medium.com/v2/resize:fit:1400/1*HRcVRb4AmLrt5E0gANvWcA.jpeg");
+    background-size: cover ;
+    background-repeat: no-repeat;
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+.ipsum{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom:20%;
+    padding-top: 20px;
+    color: white;
+}
+.Atomic{
+    display: flex;
+justify-content: center;
+align-items: center;
+color: white;
+}
+.call{
+    background-color: orange;
+    border-radius: 20px;
+  width: 300px;
+padding-bottom:50px;
+position: absolute;
+top: 25%;
+bottom: 75%;
+left: 43%;
+transition: translate(-50%,-50%);
+color: white;
+
+    
+    
+    
+}
+.call:hover{
+    /* background-color: aquamarine; */
+    background-image: url("photo-1575936123452-b67c3203c357.avif");
+    background-attachment: fixed;
+    object-fit: cover;
+}
+
+
+    
+
+.footer{
+    background-color: gray;
+    
+}
+.At{
+    float: left;
+    background: gray;
+    width: 25%;
+    height: 280px;
+
+}
+#leftbox {
+    float: left;
+    background: gray;
+    width: 25%;
+    height: 280px;
+}
+
+#middlebox {
+    float: left;
+    background: gray;
+    width: 50%;
+    height: 280px;
+    
+}
+
+#rightbox {
+    float: right;
+    background: gray;
+    width: 25%;
+    height: 280px;
+}
